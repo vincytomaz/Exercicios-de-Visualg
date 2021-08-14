@@ -1,2 +1,2 @@
 # Exercicios_Visualg
- Curso de Lógica de Programação com exercícios no Visualg
+ Curso de **Lógica de Programação** com exercícios no Visualg
