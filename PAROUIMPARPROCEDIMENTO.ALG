@@ -13,4 +13,7 @@ inicio
       Escreva("Digite um numero: ")
       Leia(N)
       ParOuImpar(N)
+      EscrevaL("O valor de V e ",V)  //Ero variavel local e não global
+      EscrevaL("O valor de N e ",N)
+
 fimalgoritmo
